@@ -17,7 +17,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.utils import img_to_array, load_img
 import shutil
 from shutil import copyfile
-import cv
+import cv2
 
 st.set_page_config(
      page_title="Dog Breed Classifier",
