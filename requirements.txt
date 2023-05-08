@@ -1,0 +1,8 @@
+pandas
+requests
+PIL
+numpy
+os
+tensorflow
+shutil
+v2
