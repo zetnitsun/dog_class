@@ -1,6 +1,6 @@
 pandas
 requests
 numpy
-tensorflow
+tensorflow<2.7.0
 streamlit
 opencv-python-headless
