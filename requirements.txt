@@ -1,6 +1,5 @@
 pandas
 requests
-PIL
 numpy
 os
 tensorflow
