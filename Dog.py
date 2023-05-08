@@ -18,7 +18,7 @@ from tensorflow.keras.utils import img_to_array, load_img
 import shutil
 from shutil import copyfile
 import pickle
-import cv2
+from cv2 import cv2
 
 st.set_page_config(
      page_title="Dog Breed Classifier",
