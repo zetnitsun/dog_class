@@ -1,7 +1,6 @@
 pandas
 requests
 numpy
-os
 tensorflow
 shutil
-v2
+cv2
